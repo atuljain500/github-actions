@@ -17,4 +17,4 @@ jobs:
             - name: create a app.js file
               run: touch app.js
             - name: Print files
-              run: ls- a
+              run: ls -a
